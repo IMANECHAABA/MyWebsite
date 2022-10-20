@@ -134,3 +134,13 @@ nav ul li a:visited {
 .gallery img {
   width: 100%;
 }
+
+.audio {
+  padding: 2rem 0;
+  /* border: 1px solid #222; */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 2rem;
+  /* background-color: #da7d88; */
+}
