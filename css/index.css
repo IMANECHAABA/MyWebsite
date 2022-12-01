@@ -144,3 +144,22 @@ nav ul li a:visited {
   gap: 2rem;
   /* background-color: #da7d88; */
 }
+
+/* DRAWING */
+.drawing {
+  width: 100%;
+  height: 500px;
+}
+
+iframe {
+  width: 100%;
+  height: 100%;
+}
+
+.nav {
+  display: none !important;
+}
+
+.p5Canvas {
+  margin: 0 auto;
+}
