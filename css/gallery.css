@@ -1,0 +1,10 @@
+.link {
+  font-size: 2rem;
+}
+
+.p5sketch {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  margin: 2rem 0;
+}
