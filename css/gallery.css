@@ -8,3 +8,28 @@
   justify-content: center;
   margin: 2rem 0;
 }
+
+h1 {
+  text-align: center;
+  margin: 2rem 0;
+  font-size: 3vw;
+}
+
+.project {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  margin: 2rem 0;
+  border-bottom: 1px solid lightslategray;
+  padding-bottom: 2rem;
+}
+
+img {
+  width: 50%;
+}
+
+iframe {
+  width: 100%;
+  height: 40vh;
+}
