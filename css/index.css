@@ -144,3 +144,10 @@ nav ul li a:visited {
   gap: 2rem;
   /* background-color: #da7d88; */
 }
+
+.credits {
+  color: aliceblue;
+  text-align: center;
+  margin-top: 1rem;
+  font-size: 1rem;
+}
