@@ -14,7 +14,7 @@ iframe {
 }
 
 .p5Canvas {
-  margin: 0 auto;
+  margin: 0 auto !important;
 }
 
 .goback {
